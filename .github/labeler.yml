@@ -1,2 +1,2 @@
 documentation:
-  -README.md
+- any: ['README.md']
